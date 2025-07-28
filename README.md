@@ -1,0 +1,1 @@
+# In this repository I added different Prime Numbers code using Python Programming Language.
